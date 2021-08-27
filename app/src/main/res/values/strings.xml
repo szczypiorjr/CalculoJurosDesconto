@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora Juros/Desconto</string>
+    <string name="label_valor">Valor:</string>
+    <string name="label_percentual">Percentual%:</string>
+    <string name="label_button_calcular">Calcular</string>
+    <string name="label_radio_desc">DESCONTO</string>
+    <string name="label_radio_juro">JUROS</string>
+
+    <string name="label_valor_resultado">Valor Informado:</string>
+    <string name="label_percentual_resultado">Percentual Informado:</string>
+    <string name="label_resultado">Resultado Obtido:</string>
+    <string name="label_operacao_selecionada">Cálculo de:</string>
+    <string name="label_percent_symbol">(%)</string>
+
+
+</resources>
